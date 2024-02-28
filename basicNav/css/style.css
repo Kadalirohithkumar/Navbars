@@ -61,8 +61,11 @@ nav .menu{
 }
 
 #home{
-    background-image:url('./images/homeBg.jpg');
+    background-image:url('/basicNav/images/home.jpg');
     height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
 }
 
 
